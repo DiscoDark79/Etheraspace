@@ -28,7 +28,7 @@ Offensive Abilities:
 Gunslinger
 - When you hit with a melee attack you can follow it up with a shot from a ranged weapon as a free action 
 
-Drifters Juke [Two Actions]
+Stinger + [Two Actions]
 - You Step, make a Strike, Step, and make another Strike. One Strike must be a ranged Strike using your firearm or crossbow, and the other must be a melee Strike using your melee weapon or unarmed attack.
 
 Taunt [Two Actions]
