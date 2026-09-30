@@ -67,11 +67,12 @@ Cloud Storage
 
 
 Spells / Divination
-	Spell DC - 24
-	Spell Modifier +14
-	-
-	Focus / Pool 2
-	[infusion](https://2e.aonsrd.com/spells/373-infusion)
+- Spell DC - 24
+- Spell Modifier +14
+	
+	
+Focus / Pool 2
+- [infusion](https://2e.aonsrd.com/spells/373-infusion)
 
 
 Cantrips	
