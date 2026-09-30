@@ -20,10 +20,12 @@ Half Form [One Action]
 - Partly morph your body into your Were form, granting increased resilience and enchancing attacks. Until the start of your next turn gain a resistance 3 to physical damage and a +1 status bonus to any attack.
 
 
-Offensive Abilities:
+Offense
 - Melee | Colds Edge (Agile) +17 (2d6+6 S +1d6 Cold against Demons & Fey; Crit - 1d6 Burn)
 - Melee (WereBear) | Claws (Agile) +17 (2d8+9 S + Grab)
 - Ranged | Flames Reprieve +19 (2d6+6 Fire; Crit 1d4 Burn) [Line 15ft]
+
+Abilities:
 
 Gunslinger
 - When you hit with a melee attack you can follow it up with a shot from a ranged weapon as a free action 
