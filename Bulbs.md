@@ -11,7 +11,8 @@ AC: 18 
 Fort | +10  Ref | +10   Will | +17
 
 
-Abilities:  
+Defensive Abilities:  
+
 Chaotic Warp [Reaction]
 - **Trigger** - When you take damage
   Warp the very reality around you as you teleport anywhere within 30ft of your current location
@@ -22,9 +23,7 @@ Harmony
   - When you [Vitality Transfer] attempt to counteract on affliction on the target, or one effect imposing one of the following effects: [Blinded],[Clumsy], [Dazzled], [Deafened], [Enfeebled], [Sickened]
 
 
-Offensive              
-
-Abilities:  
+Offensive Abilities:  
 
 Mind Fuck [Two Actions]
   - Flood the targets mind with vast amounts of information, making a target dazed 2, nauseas 2, and take 3d6 mental damage on a failed DC 20 (Will) save 
