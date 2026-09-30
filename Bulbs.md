@@ -36,10 +36,9 @@ Beyond The Veil [Three Actions]
 	- [Critical Failure] - Double Damage and [Stupefied](https://2e.aonsrd.com/conditions/38-stupefied) 4
 
 
-Statistics:              
-Str| +0  Dex| +2  Con| +5  Wis| +5  Int| +3  Cha| +1 
+Statistics: Str| +0  Dex| +2  Con| +5  Wis| +5  Int| +3  Cha| +1 
 
-Skills: 
+Skills:
 (E) - Occultism +15, Medicine +15
 (T) - Society +10, Stealth +10, Nature +10, Arcana +10
 
