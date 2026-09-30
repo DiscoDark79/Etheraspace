@@ -71,10 +71,10 @@ Spells / Divination
 	Spell Modifier +14
 	-
 	Focus / Pool 2
-		[infusion](https://2e.aonsrd.com/spells/373-infusion)
-	-
-	Cantrips
-		
+	[infusion](https://2e.aonsrd.com/spells/373-infusion)
+
+
+Cantrips	
 | Name            | Details                                                             |
 | --------------- | ------------------------------------------------------------------- |
 | Forbidding Ward | [Forbidding Ward](https://2e.aonsrd.com/spells/117-forbidding-ward) |
@@ -82,9 +82,8 @@ Spells / Divination
 | Guidence        | [Guidance](https://2e.aonsrd.com/spells/132-guidance)               |
 | Stabilize       | [Stabilize](https://2e.aonsrd.com/spells/286-stabilize)             |
 | Ricochet        | [Ricochet](https://2e.aonsrd.com/spells/246-ricochet)               |
-	-
-	Spells / Spell Slots
-		
+
+Spells / Spell Slots	
 | 1st | 2nd | 3rd |
 | --- | --- | --- |
 | 4   | 4   | 4   |
