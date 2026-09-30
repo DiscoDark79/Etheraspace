@@ -1,4 +1,4 @@
-Kreeta - Dragoon  |  Level 6
+Kreeta Northwind - Dragoon  |  Level 6
 
 Credits | 62,500
 Senses | Darkvision (60ft), Blind Sense (Hearing - 15ft); Perception +18
