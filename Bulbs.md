@@ -78,8 +78,8 @@ Spells / Divination
 | Guidence        | [Guidance](https://2e.aonsrd.com/spells/132-guidance)               |
 | Stabilize       | [Stabilize](https://2e.aonsrd.com/spells/286-stabilize)             |
 | Ricochet        | [Ricochet](https://2e.aonsrd.com/spells/246-ricochet)               |
-	-
-	Spells / Spell Slots
+
+Spells / Spell Slots
 		
 | 1st | 2nd | 3rd |
 | --- | --- | --- |
