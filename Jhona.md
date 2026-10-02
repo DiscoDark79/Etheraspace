@@ -21,8 +21,11 @@ Half Form [One Action]
 
 
 Offense
+
 Melee | Colds Edge (Agile) +17 (2d6+6 S +1d6 Cold against Demons & Fey; Crit - 1d6 Burn)
+
 Melee (WereBear) | Claws (Agile) +17 (2d8+9 S + Grab)
+
 Ranged | Flames Reprieve +19 (2d6+6 Fire; Crit 1d4 Burn) [Line 15ft]
 
 Abilities:
