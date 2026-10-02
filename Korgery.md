@@ -23,7 +23,9 @@ Weaknesses: Electricity 6
 
 
 Offense
+
 Melee | Arm Blades (Agile) +14 (2d6+4 S) x2
+
 Melee (Battle Form) | Twin Blade +15 (2d8+8 S; Crit 1d6 Bleed)
 
 Abilities:  
