@@ -14,6 +14,7 @@ Fort | +10  Ref | +10   Will | +17
 Abilities:  
 
 Chaotic Warp [Reaction]
+
 **Trigger** - When you take damage
   - Warp the very reality around you as you teleport anywhere within 30ft of your current location
 
