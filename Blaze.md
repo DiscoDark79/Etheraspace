@@ -19,8 +19,10 @@ Wasn't Me [Reaction]
   - You can convince your attacker not to attack you since whoever their looking for is somewhere else. Make a diplomacy check against the attackers DC, on a success they are convinced to leave you alone, on a fail they contiue their attack.
 
 ---
-**Offensive**         
+**Offensive**    
+
 Ranged | Glock 18 +12 (2d6+5 P)
+
 Melee | Fists +12 (2d4+3 B)
 
 Abilities:  
@@ -34,4 +36,5 @@ Blazin [Two Actions]
 Statistics: Str| +2  Dex| +2  Con| +2  Wis| +2  Int| +2  Cha| +2
 
 Skills: 
+
 (E) Diplomacy +15
