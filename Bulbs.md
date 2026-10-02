@@ -63,8 +63,8 @@ Skills: 
 
 ---
 Spells / Divination
-	- Spell DC - 24
-	- Spell Modifier +14
+  - Spell DC - 24
+  - Spell Modifier +14
 
 
 Focus / Pool 2
