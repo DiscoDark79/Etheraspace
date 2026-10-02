@@ -3,26 +3,27 @@ Korgery - Inventor / Construct (augmented) |  Level 6
 Senses | Darkvision: Perception +15
 Speed | 25ft (Land)
 
-Defense          HP - 80
+**Defense**          HP - 80
 
 AC: 20
 
 Fort | +14  Ref | +7   Will | +18
 
-Defensive Abilities: 
+Abilities: 
 
 Protection Protocol [Two Action] (In [Battle Form])
   - Stride up to twice, after which you project a 5ft burst shield that is hard cover for any creature within.
 
 "Gentle" Suggestion [Reaction]
+
 **Trigger**: On taking damage
   - Apply a "Gentle" shock to whoever inflicted the damage, dealing 1d8 electric damage
 
 Resistance: Slashing 8
 Weaknesses: Electricity 6
 
-
-Offense
+---
+**Offense**
 
 Melee | Arm Blades (Agile) +14 (2d6+4 S) x2
 
@@ -40,5 +41,7 @@ Combat Protocol [One Action] (In [Battle Form])
 Statistics: Str| +0  Dex| +1  Con| +2  Wis| +4  Int| +5  Cha| +2
 
 Skills:  
+
 (E) - Piloting +15, Crafting +15
+
 (T) - Diplomacy +9
