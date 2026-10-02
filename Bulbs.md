@@ -23,6 +23,19 @@ Vitality Transfer [One Action]
 Harmony
   - When you [Vitality Transfer], attempt to counteract on affliction on the target, or one effect imposing one of the following effects: [Blinded],[Clumsy], [Dazzled], [Deafened], [Enfeebled], [Sickened]
 
+Mystic Bond
+- After a 10-min activity, of the mystics preference, form a connection with a willing creature. Can maintain up to 10 connections and lasts until either party is no longer willing.
+
+Vitality network
+- A pool of life energy that can be used to heal targets within your bond. At the start of combat, or when you regain actions, the network regains 4HP, and regains all HP when the mystic Refocuses.
+
+Group Chat
+- Creatures in your bond can communicate telepathically while within 120 feet of one another.
+
+Cloud Storage
+- You can use your vitality network as an extradimensional storage space. You can Interact with an item that weighs 1 Bulk or less to stow it into your Cloud Storage. A creature in your bond and on the same plane can remove an item from your Cloud Storage as an Interact action, but doing so takes 2 actions instead of 1 action. Your Cloud Storage has a capacity of 12 Bulk.
+
+
 ---
 **Offense**
 
@@ -48,28 +61,17 @@ Skills: 
 
 (T) - Society +10, Stealth +10, Nature +10, Arcana +10
 
-Abilities:
-
-Mystic Bond
-- After a 10-min activity, of the mystics preference, form a connection with a willing creature. Can maintain up to 10 connections and lasts until either party is no longer willing.
-
-Vitality network
-- A pool of life energy that can be used to heal targets within your bond. At the start of combat, or when you regain actions, the network regains 4HP, and regains all HP when the mystic Refocuses.
-
-Group Chat
-- Creatures in your bond can communicate telepathically while within 120 feet of one another.
-
-Cloud Storage
-- You can use your vitality network as an extradimensional storage space. You can Interact with an item that weighs 1 Bulk or less to stow it into your Cloud Storage. A creature in your bond and on the same plane can remove an item from your Cloud Storage as an Interact action, but doing so takes 2 actions instead of 1 action. Your Cloud Storage has a capacity of 12 Bulk.
-
+---
 Spells / Divination
-	Spell DC - 24
-	Spell Modifier +14
-	-
-	Focus / Pool 2
-		[infusion](https://2e.aonsrd.com/spells/373-infusion)
-	-
-	Cantrips
+	- Spell DC - 24
+	- Spell Modifier +14
+
+
+Focus / Pool 2
+  - [infusion](https://2e.aonsrd.com/spells/373-infusion)
+
+
+Cantrips
 		
 | Name            | Details                                                             |
 | --------------- | ------------------------------------------------------------------- |
