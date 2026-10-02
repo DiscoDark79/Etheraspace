@@ -40,5 +40,5 @@ Combat Protocol [One Action] (In [Battle Form])
 Statistics: Str| +0  Dex| +1  Con| +2  Wis| +4  Int| +5  Cha| +2
 
 Skills:  
-(E) - Piloting +15
+(E) - Piloting +15, Crafting +15
 (T) - Diplomacy +9
