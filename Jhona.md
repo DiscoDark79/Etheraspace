@@ -4,14 +4,14 @@ Credits | 1,883
 Senses | Low Light Vision, Scent (Imprecise 30ft); Perception +17
 Speed | 30ft (Land)
 
-Defense          HP - 65
+**Defense**          HP - 65
 
 AC: 23
 
 Fort | +15  Ref | +16   Will | +8
 
 
-Defensive Abilities:  
+Abilities:  
 
 Into the Fray
 - Upon rolling initiative as your first action, you can stride as a free action
@@ -19,8 +19,8 @@ Into the Fray
 Half Form [One Action]
 - Partly morph your body into your Were form, granting increased resilience and enchancing attacks. Until the start of your next turn gain a resistance 3 to physical damage and a +1 status bonus to any attack.
 
-
-Offense
+---
+**Offense**
 
 Melee | Colds Edge (Agile) +17 (2d6+6 S +1d6 Cold against Demons & Fey; Crit - 1d6 Burn)
 
