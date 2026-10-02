@@ -20,6 +20,7 @@ Protection Protocol [Two Action] (In [Battle Form])
   - Apply a "Gentle" shock to whoever inflicted the damage, dealing 1d8 electric damage
 
 Resistance: Slashing 8
+
 Weaknesses: Electricity 6
 
 ---
