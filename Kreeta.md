@@ -27,6 +27,7 @@ Cassandra's Wings
 
 
 Offense            
+
 Melee | Lance (Singing Glaive) +14
   - Mode 1 - [Analog, Reach] (2d8+8 P)
   - Mode 2 - [Critical-Sonic, Powered, Reach, Tech] (2d8+8 So)
