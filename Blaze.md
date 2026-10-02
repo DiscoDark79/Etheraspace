@@ -11,10 +11,12 @@ Fort | +11  Ref | +11   Will | +11
 Abilities:  
 
 Don't Mind Me
+
 **Trigger**: Rolling initiative
   - Make a diplomacy check against whoever is first in combat, convincing them and all others in combat that you have nothing to do with this. Can leave the area unprovoked and cannot return.
 
 Wasn't Me [Reaction]
+
 **Trigger**: Someone is targeting you for an attack
   - You can convince your attacker not to attack you since whoever their looking for is somewhere else. Make a diplomacy check against the attackers DC, on a success they are convinced to leave you alone, on a fail they contiue their attack.
 
