@@ -55,6 +55,8 @@ Hunt Prey [One Action] / In WereBear only
 Statistics: Str| +3  Dex| +5  Con| +3  Wis| +1  Int| +1  Cha| +2 
 
 Skills: 
+
 (E) - Acrobatics +15, Athletics +15
+
 (T) - Diplomacy +12, Deception +12, Thievery +12, Performance +12
 
