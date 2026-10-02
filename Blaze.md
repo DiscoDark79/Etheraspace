@@ -19,7 +19,7 @@ Wasn't Me [Reaction]
   - You can convince your attacker not to attack you since whoever their looking for is somewhere else. Make a diplomacy check against the attackers DC, on a success they are convinced to leave you alone, on a fail they contiue their attack.
 
 ---
-**Offensive**    
+**Offense**    
 
 Ranged | Glock 18 +12 (2d6+5 P)
 
