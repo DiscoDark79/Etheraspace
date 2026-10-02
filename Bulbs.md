@@ -24,7 +24,7 @@ Harmony
   - When you [Vitality Transfer], attempt to counteract on affliction on the target, or one effect imposing one of the following effects: [Blinded],[Clumsy], [Dazzled], [Deafened], [Enfeebled], [Sickened]
 
 ---
-**Offensive**
+**Offense**
 
 Abilities:  
 
